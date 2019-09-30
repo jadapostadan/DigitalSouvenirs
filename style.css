@@ -6,6 +6,10 @@ body, div, h1, {
   vertical-align: middle;
 }
 
+.cell { 
+  cursor: cell;
+}
+
 .header {
   position: fixed;
   text-align: left;
