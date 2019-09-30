@@ -14,7 +14,7 @@ body, div, h1, {
   margin-left: 10px;
   height: 0.01vh;
   width: 235px;
-  padding-top: 1px;
+  padding-top: 0px;
   padding-right: auto;
   padding-bottom: 29px;
   padding-left: auto;
@@ -32,8 +32,8 @@ h1 {
   font-weight: 900;
   color: #000000;
   font-size: 1.4rem;
-  letter-spacing: 0.03rem;
-  line-height: 1em;
+  letter-spacing: 0.06rem;
+  line-height: 0.9em;
 }
 
 body {
